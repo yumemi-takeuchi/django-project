@@ -8,3 +8,4 @@ RUN pip install -r /tmp/requirements.txt
 # create application directory
 RUN mkdir /app
 WORKDIR /app
+
