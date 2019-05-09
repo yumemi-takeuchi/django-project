@@ -4,6 +4,7 @@
 ```
 git clone git@github.com:yumemi-takeuchi/django-project.git
 cd docker
+cp .env-example .env 
 docker-compose up -d
 ```
 
